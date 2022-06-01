@@ -35,10 +35,6 @@ a:hover{
     color: #F25A70;
 }
 
-a:active{
-   
-}
-
 a:hover::before{
     background-color: #fff;
 
