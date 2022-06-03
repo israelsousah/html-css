@@ -1,11 +1,14 @@
 .button{
     display: inline-block;
     background-color: #F25A70;
+    text-decoration:none;
     padding: 18px 20px;
     box-shadow: 5px 5px 0 #000;
     margin-right: 0;
     transition: transform 100ms linear;
     opacity: 0.9;
+    font-size: 20px;
+    color:#fff;
 
 }
 
